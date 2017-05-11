@@ -2,7 +2,7 @@
 title:              Gestrikt blog
 bio:                'Grafisch ontwerp en communicatie'
 description:        "Grafisch ontwerp en communicatie"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-gestrikt.jpg'
